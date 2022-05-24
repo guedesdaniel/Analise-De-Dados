@@ -1,0 +1,8 @@
+Análise de dados de compra de um website utilizando Python e as bibliotecas PANDAS e NUMPY no Jupyter Notebook
+
+Foi analisado o perfil de consumidores pela quantidade, faixa etária e gênero.
+Foi analisado as compras pela quantidades de compras, preço médio, valor total de compras, compras por faixa etária, compras por gênero.
+Foi identificado os melhores compradores por quantidade de compras e por valor total de compras.
+Foi identificado os melhores itens por quantidade de vendas e por valor lucrativo (valor total de compra).
+
+Realizado durante o curso de Python Fundamentos Para Análise de Dados 3.0 da DataScienceAcademy
